@@ -3,7 +3,7 @@ using namespace std;
 
 vector<int> solution(vector<vector<int>> cards, vector<vector<int>> moves, int query) {
   vector<int> ans;
-  
+ 
   int x, y;
 
   for (vector<int> v: cards) {
